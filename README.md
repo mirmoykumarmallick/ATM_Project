@@ -32,3 +32,10 @@ The project consists of the following components:
 4. Run the program:
    ```bash
    python atm_system.py
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+  
+## Author
+- Mirmoy Kumar Mallick
+- LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
+- Email: mirmoykumarmallick10@gmail.com
