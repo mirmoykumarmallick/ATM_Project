@@ -1,0 +1,1 @@
+This project requires only Python and no additional libraries, making it lightweight and easy to run. For deployment or testing in Google Colab, Python 3.x is sufficient.
