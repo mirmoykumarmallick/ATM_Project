@@ -38,4 +38,4 @@ The project consists of the following components:
 ## Author
 - Mirmoy Kumar Mallick
 - LinkedIn Profile: linkedin.com/in/mirmoy-kumar-mallick
-- Email: mirmoykumarmallick10@gmail.com
+- Email: mirmoykumarmallick99@gmail.com
